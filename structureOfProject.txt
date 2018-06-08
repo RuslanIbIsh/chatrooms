@@ -1,0 +1,29 @@
+Server Node.js    
+
+------------------- 
+
+server.js
+
+
+lib  chat_server.js
+
+
++++++++++++++++++++++++++++++++
+
+
+Client (web-browser)
+
+------------------
+
+
+public  index.html
+
+
+stylesheets  style.css
+
+
+javascripts   chat.js   chat_ui.js
+
+
+
+                     

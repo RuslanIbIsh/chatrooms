@@ -1,4 +1,33 @@
-Server Node.js    
+
+
+How to run
+
+just enter URL   http://127.0.0.1:3000
+
+
+Change nickname: /nick[username]
+Join/create room: /join[room name]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+below structure of project
+
+
+
+Server Node.js
 
 ------------------- 
 
